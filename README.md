@@ -1,7 +1,7 @@
 # Alu
 Ad hoc code for Alu sequence analysis. 
 
-Software version:
+Software versions:
 --Python 3.6
 --R 3.4.4
 --featureCounts 1.6.1
